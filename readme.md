@@ -13,7 +13,7 @@ This project provides a web-based interface for analyzing stock data and receivi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/stock-analysis-ai-advisor.git
+    git clone https://github.com/TsTsvetkoff/stock-analysis-ai-advisor.git
     cd stock-analysis-ai-advisor
     ```
 
@@ -35,7 +35,7 @@ This project provides a web-based interface for analyzing stock data and receivi
     python my_llm.py
     ```
 
-2. Open your web browser and navigate to the provided URL (usually `http://127.0.0.1:7860`).
+2. Open your web browser and navigate to the provided URL.
 
 3. Enter the stock ticker, start date, end date, and select the LLM model. Click "Analyze Stock" to get the analysis and recommendation.
 
