@@ -41,7 +41,7 @@ This project provides a web-based interface for analyzing stock data and receivi
 
 ## Disclaimer
 
-**This is not financial advice.** The recommendations provided by the AI are for informational purposes only and should not be considered as financial advice. Language models (LLMs) are in an experimental phase and their outputs may not be accurate or reliable. Do not risk your financial well-being based on the recommendations provided by this application.
+**This is not financial advice.** This project is for enterntaiment purposes only. The recommendations provided by the AI are for informational purposes only and should not be considered as financial advice. Language models (LLMs) are in an experimental phase and their outputs may not be accurate or reliable. Do not risk your financial well-being based on the recommendations provided by this application.
 
 ## License
 
